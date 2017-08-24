@@ -1,0 +1,42 @@
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+h2 {
+  background-color: #1485CC;
+  color: #ffffff;
+  font-family: sans-serif;
+}
+h1 {
+  background-color: #1485CC;
+  color: #ffffff;
+}
+.title {
+  font-size: 35px;
+  font-family: sans-serif;
+}
+p{
+  font-size: 200%;
+  font-style: verdana;
+}
